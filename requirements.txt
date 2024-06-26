@@ -1,0 +1,7 @@
+pyfiglet
+python-nmap
+requests
+vulners
+beautifulsoup4
+colorama
+urllib3
