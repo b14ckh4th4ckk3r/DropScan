@@ -1,2 +1,2 @@
 # DropScan
-An offensive vulnerability Scanner
+An offensive vulnerability Scanner for Network and Web Application.
