@@ -1,2 +1,2 @@
 # DropScan
-A vulnerability Scanner
+An offensive vulnerability Scanner
