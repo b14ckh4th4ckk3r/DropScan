@@ -13,7 +13,7 @@ import warnings
 
 init()
 warnings.filterwarnings("ignore", category=DeprecationWarning, module='vulners.*')
-vulners_api = vulners.Vulners(api_key="FDDABEXGPCEPUOLL8QUPPYNBT63G0NT9NSPP6TOF0N9AWQFJAEG51QX837JQZJEG")
+vulners_api = vulners.Vulners(api_key="Your_api-key")
 
 sesson = requests.Session()
 sesson.headers["User-Agent"] = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36"
