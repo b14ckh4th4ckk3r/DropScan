@@ -7,7 +7,7 @@ from vulners import VulnersApi
 import nmap
 
 # Initialize the Vulners API
-vulners_api = VulnersApi(api_key="FDDABEXGPCEPUOLL8QUPPYNBT63G0NT9NSPP6TOF0N9AWQFJAEG51QX837JQZJEG")
+vulners_api = VulnersApi(api_key="Your_API_KEY")
 timeout_duration = 10
 
 def resolve_domain_to_ip(domain):
